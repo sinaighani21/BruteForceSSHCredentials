@@ -6,13 +6,13 @@ Utilized Kali Linux tools, Metasploit, and Hydra to demonstrate how attackers ca
 <br />
 
 
-<h2>Tools and utilities used</h2>
+<h2>Tools and utilities used:</h2>
 
 - <b>Kali Linux</b> 
 - <b>Metasploit</b>
 - <b>Nmap</b>
 - <b>Hydra</b>
-<h2>Operating System Used </h2>
+<h2>Operating System Used:</h2>
 
 - <b>Kali Linux</b> 
 
