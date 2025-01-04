@@ -40,6 +40,9 @@ Using another tool called "Hydra" which is way faster then Nmap to crack passwor
 <br />
 <br />
 
+<h2>Takeaway:</h2>
+This demonstration shows why it’s important to use strong, unique passwords to protect against brute-force attacks and similar threats. Adding multi-factor authentication (MFA) provides an extra layer of security, making it harder for attackers to break in, even if they guess a password. Setting up systems with strict security settings, like locking accounts after too many failed attempts and keeping software updated, helps keep sensitive data and systems safe from attacks.
+
 <br />
 <br />
 </p>
